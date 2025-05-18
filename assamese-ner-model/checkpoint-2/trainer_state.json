@@ -1,6 +1,6 @@
 {
   "best_global_step": 2,
-  "best_metric": 3.360003709793091,
+  "best_metric": 3.241945505142212,
   "best_model_checkpoint": "./assamese-ner-model\\checkpoint-2",
   "epoch": 2.0,
   "eval_steps": 500,
@@ -11,24 +11,24 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "eval_f1": 0.08284023668639053,
-      "eval_loss": 3.443108558654785,
-      "eval_precision": 0.40384615384615385,
-      "eval_recall": 0.046153846153846156,
-      "eval_runtime": 0.456,
-      "eval_samples_per_second": 4.386,
-      "eval_steps_per_second": 2.193,
+      "eval_f1": 0.028846153846153848,
+      "eval_loss": 3.3247406482696533,
+      "eval_precision": 0.23076923076923078,
+      "eval_recall": 0.015384615384615385,
+      "eval_runtime": 0.3649,
+      "eval_samples_per_second": 5.481,
+      "eval_steps_per_second": 2.741,
       "step": 1
     },
     {
       "epoch": 2.0,
-      "eval_f1": 0.1266968325791855,
-      "eval_loss": 3.360003709793091,
-      "eval_precision": 0.20192307692307693,
-      "eval_recall": 0.09230769230769231,
-      "eval_runtime": 0.366,
-      "eval_samples_per_second": 5.465,
-      "eval_steps_per_second": 2.732,
+      "eval_f1": 0.12522361359570663,
+      "eval_loss": 3.241945505142212,
+      "eval_precision": 0.33653846153846156,
+      "eval_recall": 0.07692307692307693,
+      "eval_runtime": 0.348,
+      "eval_samples_per_second": 5.747,
+      "eval_steps_per_second": 2.874,
       "step": 2
     }
   ],
